@@ -3,6 +3,7 @@
 Saya Tia ifania nugrahaningtyas mengerjakan LP11 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 berikut adalah desain database
+
 <img width="94" alt="image" src="https://github.com/tiaifania/LP11DPBO2024C2/assets/159092454/14a0fc4c-db7f-4963-a6b6-3d8800c297ac">
 
 tidak terdapat relasi antar tabel, di latihan kali ini spesifikasinya untuk menampilkan kolom email dan telp pada tabel dan menambahkan fitur CRUD. adapun alur dari progrma ini adala index.php adalah halaman yang akan terpanggil di web. di dalam index.php terdapat pengkondisian untuk menampilkan views form add yang mengharuskan pemanggilan add melewati penekanan tombol "add new pasien", form edit yang mengharuskan pemanggilan edit melewati penekanan tombol "edit", atau menampilkan tabel saja. 
